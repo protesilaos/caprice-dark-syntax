@@ -22,6 +22,6 @@ apm install caprice-dark-syntax
 
 ## Further information
 
-Project page: [http://www.protesilaos.com/caprice](http://www.protesilaos.com/caprice)
+Project page: [https://protesilaos.com/caprice](https://protesilaos.com/caprice)
 
 Caprice light version: [https://atom.io/themes/caprice-syntax](https://atom.io/themes/caprice-syntax)
